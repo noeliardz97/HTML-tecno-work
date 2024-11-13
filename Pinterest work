@@ -1,0 +1,20 @@
+<main class="contenido">
+      <div class="imagenes">
+        <!-- Card -->
+        <div class="card-image">
+          <img src="" alt="" class="img" />
+          <button class="button">
+            <a href="#">Guardar</a>
+          </button>
+          <span class="material-symbols-outlined"> upload </span>
+          <span class="material-symbols-outlined"> more_horiz </span>
+        </div>
+        <!-- fin de card -->
+      </div>
+    </main>
+<div class="right-items">
+          <span class="material-symbols-outlined"> notifications </span>
+          <span class="material-symbols-outlined"> sms </span>
+          <span class="material-symbols-outlined"> account_circle </span>
+          <span class="material-symbols-outlined"> keyboard_arrow_down </span>
+        </div>
